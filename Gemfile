@@ -7,7 +7,8 @@ gem "rails", "~> 6.1.4"
 gem "puma", "~> 5.0"
 gem "sass-rails", ">= 6"
 gem "webpacker", "~> 5.0"
-gem "pg"
+
+gem "sqlite3"
 gem "jbuilder", "~> 2.7"
 gem "react-rails"
 
